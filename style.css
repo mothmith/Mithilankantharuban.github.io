@@ -1,0 +1,33 @@
+.titles {
+	font-size: 32px;
+	font-family:  'Courier New', Courier, monospace;
+	color: green;
+	line-height: 32px;
+
+}
+
+.GreenNormalText {
+
+	font-size: 18px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+	color: green;
+
+}
+
+.RedNormalText {
+
+	font-size: 18px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+	color: red;
+
+}
+.center {
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
